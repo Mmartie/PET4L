@@ -1,4 +1,4 @@
-# PET4L - Productivity Emotional Tool for Life 🌸🤖
+# PET4L - Productivity Emotional Tool for Learning
 > **Note:** This repository contains the source code and technical documentation associated with the **Final Laboratory Report** for the PET4L project.
 
 ## Project Description
