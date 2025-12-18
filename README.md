@@ -11,7 +11,7 @@ To replicate this project, the following components are required:
 * **Actuator:** Micro Servo Motor (e.g., SG90)
 * **Sensor:** Ultrasonic Module HC-SR04
 * **Lighting:** NeoPixel LED Ring (20 RGB LEDs, e.g., WS2812B)
-* 3D Printed Case and Petals (refer to the attached STL files or the report)
+* 3D Printed Case and Petals (not provided in this repository)
 * Jumper wires and power supply
 
 ## Wiring Connection Guide
