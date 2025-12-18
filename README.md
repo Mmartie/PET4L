@@ -31,13 +31,13 @@ To replicate this project, the following components are required:
 | | GND | GND | Common Ground Rail |
 | | Data In (DI) | **D6** | Digital Pin |
 
-## 📚 Required Libraries
+## Required Libraries
 The code relies on the following libraries, which must be installed via the Arduino Library Manager or imported manually:
 1.  **`VarSpeedServo.h`**: Used for controlling servo speed to create organic, fluid movements.
     * *Note:* If not found in the standard Library Manager, download the .zip from GitHub and install it manually.
 2.  **`Adafruit_NeoPixel.h`**: Used for controlling the LED Ring animations.
 
-## ⚙️ Key Features
+## Key Features
 The code implements the following logic as detailed in the report:
 * **Pomodoro Cycle:** 25 minutes of Work / 5 minutes of Break.
 * **Presence Detection:** Algorithm with median filtering and hysteresis to reject false positives/negatives from the ultrasonic sensor.
@@ -46,6 +46,6 @@ The code implements the following logic as detailed in the report:
 * **Gamification:** A Level System with **Color Coding** (Yellow -> Purple) that progresses with every completed cycle.
 * **Software Interrupt:** Immediate responsiveness if the user returns during blocking animations (e.g., while withering).
 
-## 📝 Authors
+## Authors
 Code developed by group 3 (Didrik Bydal, Martina Mesiano, Yu Lu, Rubankarthik  Umapathy) for the Mechathronics for Product Design course in KTH.
 Please refer to the full report for details on the design process.
