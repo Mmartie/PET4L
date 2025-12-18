@@ -2,8 +2,8 @@
 > **Note:** This repository contains the source code and technical documentation associated with the **Final Laboratory Report** for the PET4L project.
 
 ## Project Description
-PET4L is an interactive robotic flower designed to assist users with time management and productivity using the **Pomodoro Technique**. The system employs a "Biofeedback" approach: the flower blooms and thrives when the user is present and productive, but "withers" (*Withering Mode*) if the user abandons the workstation during a work cycle.
-The software is built upon a non-blocking **Finite State Machine (FSM)** architecture that simultaneously manages sensors, actuators, and LED feedback without interruption.
+PET4L is an interactive robotic flower designed to assist users with time management and productivity using the **Pomodoro Technique**. The system employs a emotional feedback approach: the flower blooms and thrives when the user is present and productive, but "withers" (*Withering Mode*) if the user abandons the workstation during a work cycle.
+The software is built with an Arduino microcontroller that manages sensors, actuators, and LED feedback without interruption.
 
 ## Hardware Requirements
 To replicate this project, the following components are required:
